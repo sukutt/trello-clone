@@ -1,0 +1,7 @@
+[submodule "trello-frontend"]
+	path = trello-frontend
+	url = https://github.com/sukutt/react-trello.git
+
+[submodule "trello-backend"]
+  path = trello-backend
+  url = https://github.com/sukutt/trello-backend.git
